@@ -3,22 +3,18 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.log
-*.db
+env/
+venv/
 *.sqlite3
 
-# Virtual environments
-venv/
-env/
-.venv/
+# Flask
+instance/
+*.log
 
-# macOS / Windows
-.DS_Store
-Thumbs.db
-
-# Node.js
+# Node / Frontend
 node_modules/
+dist/
+build/
 
-# Temporary or large files
-outputs/
-checkpoints/
+# Config / Sensitive
+backend/config.json
