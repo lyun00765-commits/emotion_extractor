@@ -1,0 +1,9 @@
+{
+  "id": "emotion_extractor",
+  "name": "Emotion Extractor",
+  "author": "you",
+  "version": "0.1.0",
+  "description": "自动提取文本情绪并在发送给 TTS 前附加情绪标签（本地规则版）。",
+  "entry": "main.js",
+  "settings": true
+}
