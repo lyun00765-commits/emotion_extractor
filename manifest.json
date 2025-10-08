@@ -1,0 +1,15 @@
+{
+  "display_name": "Emotion Extractor",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "dependencies": [],
+  "js": "main.js",
+  "css": "",
+  "author": "lyun00765",
+  "version": "0.1.0",
+  "homePage": "https://github.com/lyun00765-commits/emotion_extractor",
+  "auto_update": true,
+  "minimum_client_version": "0.10.0",
+  "i18n": {}
+}
