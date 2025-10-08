@@ -1,0 +1,17 @@
+{
+  "manifest_version": 1,
+  "name": "Emotion Extractor",
+  "version": "0.1.0",
+  "author": "lyun00765",
+  "description": "从文本中自动识别情绪并打标签，辅助语音生成。",
+  "require": [],
+  "extensions": {
+    "frontend": {
+      "main": "frontend/index.js",
+      "html": "frontend/index.html"
+    },
+    "backend": {
+      "entry": "backend/app.py"
+    }
+  }
+}
